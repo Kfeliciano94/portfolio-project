@@ -17,3 +17,7 @@ p {
   font-style: normal;
   color: white;
 }
+
+.navbar-nav {
+  margin-left: auto;
+}
